@@ -25,7 +25,9 @@ We want **every engineer** to feel empowered to raise concerns — whether you'r
 Your contributions help improve developer experience for everyone—thank you!
 
 ### 🗣️ Start a Discussion
-If you're experiencing a developer friction—or just want to share a pain point, start a new [Discussion](https://github.com/ericchapman80/friction-log-starter/discussions) under the **Frictions** category. This allows for open-ended conversation, collaborative brainstorming, and community voting.
+If you're experiencing a developer friction—or just want to share a pain point, [Start a New Friction Report](https://github.com/ericchapman80/friction-log-starter/discussions/new) using our guided template. This will create a new discussion under the **Friction Log** category. This allows for open-ended conversation, collaborative brainstorming, and community voting.
+
+> When creating your discussion, select the **Friction** template for a structured reporting experience.
 
 - Use a descriptive title (e.g., "Long CI/CD Times on Small Changes")
 - Include context (what you were trying to do, expected behavior, what got in your way)
