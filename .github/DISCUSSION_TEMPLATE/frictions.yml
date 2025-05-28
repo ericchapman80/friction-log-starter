@@ -1,0 +1,36 @@
+title: "[Friction] "
+labels: ["friction"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing to the Developer Friction Log! Please provide detailed information about the friction you've encountered.
+  - type: textarea
+    id: context
+    attributes:
+      label: What were you trying to do?
+      description: Describe the task or goal you were working on when you encountered the friction.
+      placeholder: e.g., Setting up a new development environment for Project X.
+    validations:
+      required: true
+  - type: textarea
+    id: obstacle
+    attributes:
+      label: What got in the way?
+      description: Explain the specific issue, delay, confusion, or blocker.
+      placeholder: e.g., The setup script failed due to missing dependencies.
+    validations:
+      required: true
+  - type: textarea
+    id: workaround
+    attributes:
+      label: How did you work around it? (Optional)
+      description: Share any temporary solution, workaround, or hack you used.
+      placeholder: e.g., Manually installed the missing dependencies.
+  - type: textarea
+    id: improvement
+    attributes:
+      label: Suggested Improvement or Fix (Optional)
+      description: If you have thoughts on how this could be improved, include them here.
+      placeholder: e.g., Update the setup script to check for and install missing dependencies.
+
